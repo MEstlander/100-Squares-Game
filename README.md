@@ -1,4 +1,4 @@
-##Python 100 Squares game
+## Python 100 Squares game
 
 This is my python version of this game https://madewithreact.com/100-squares-game/ with two additional features. 
 Pressing Enter checks if there are still valid squares you can move to or if you've
